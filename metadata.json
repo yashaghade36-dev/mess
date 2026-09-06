@@ -1,0 +1,8 @@
+{
+  "name": "Smart Mess Management System",
+  "description": "A college campus mess management portal for online monthly fee tracking, UPI QR payments, breakfast pre-ordering, and queue-free token pickup slots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
